@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dfb5d9f9.css",
+    "main.js": "/static/js/main.c74c91a2.js",
+    "static/media/Dark.svg": "/static/media/Dark.8814f7988afaaf405990cf9beb75b131.svg",
+    "index.html": "/index.html",
+    "static/media/GitHub.svg": "/static/media/GitHub.3abf3dbd4cfa6b38ffe6567294806a1e.svg",
+    "static/media/Light.svg": "/static/media/Light.3f3d608b6b536d901dbecd9889dc14ab.svg",
+    "static/media/SpotifyCover.webp": "/static/media/SpotifyCover.0511864abb47766d1cc2.webp",
+    "main.dfb5d9f9.css.map": "/static/css/main.dfb5d9f9.css.map",
+    "main.c74c91a2.js.map": "/static/js/main.c74c91a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfb5d9f9.css",
+    "static/js/main.c74c91a2.js"
+  ]
+}
