@@ -1,0 +1,53 @@
+@import url('global.css');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+
+body {
+    background: var(--bg-color);
+    color: var(--color-text);
+    font-family: 'JetBrains Mono', monospace;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.ccard {
+    padding: 30px;
+    background: #0e0e0e;
+    border-radius: 5px;
+    border: #585858 1px solid;
+    width: 200px;
+    height: 65px;
+    text-align: center;
+}
+
+.ccard pre {
+    margin-top: -10px;
+    font-weight: bold;
+}
+
+.ccard1 {
+    margin-top: 15px;
+    padding: 30px;
+    background: #0e0e0e;
+    border-radius: 5px;
+    border: #585858 1px solid;
+    width: 200px;
+    height: 65px;
+    text-align: center;
+}
+
+.ccard1 pre {
+    margin-top: -10px;
+    font-weight: bold;
+}
+
+.ccard1 a {
+    color: var(--color);
+}
